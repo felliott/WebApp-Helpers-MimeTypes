@@ -7,7 +7,7 @@ use MIME::Types;
 
 use Moo::Role;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 
 has mime_types => (is => 'ro', lazy => 1,  builder => 1);

@@ -65,6 +65,6 @@
          "web" : "https://github.com/felliott/WebApp-Helpers-MimeTypes"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:FELLIOTT"
 }
